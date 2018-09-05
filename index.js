@@ -1,4 +1,4 @@
-/*const musicians = ["John", "Paul", "George", "Ringo"];
+var musicians = ["John", "Paul", "George", "Ringo"];
 
 const instruments = ["guitar", "guitar", "bass", "drums"];
 
