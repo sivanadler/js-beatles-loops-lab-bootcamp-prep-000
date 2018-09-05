@@ -7,10 +7,11 @@ function theBeatlesPlay(musicians, instruments) {
   for (let i = 0; i < 4; i++) {
       array.push(`${musicians[0]} plays ${instruments[0]}`);
     }
-  return array;
+  return theBeatlesPlay(musicians, instruments);
 }
 
 theBeatlesPlay(musicians, instruments);
+
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
