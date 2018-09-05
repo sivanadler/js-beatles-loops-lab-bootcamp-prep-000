@@ -9,6 +9,8 @@ function theBeatlesPlay(musicians, instruments) {
     }
   return array;
 }
+
+theBeatlesPlay(musicians, instruments);
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
