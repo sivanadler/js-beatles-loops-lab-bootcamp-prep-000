@@ -10,7 +10,6 @@ function theBeatlesPlay(musicians, instruments) {
   return theBeatlesPlay(musicians, instruments);
 }
 
-theBeatlesPlay(musicians, instruments);
 
 const facts = [
   "He was the last Beatle to learn to drive",
