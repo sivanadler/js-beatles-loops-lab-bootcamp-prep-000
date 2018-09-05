@@ -17,7 +17,7 @@ const facts = [
 ];
 
 function johnLennonFacts(facts) {
-  while () {
+  while (n) {
     facts[n] + "!!!";
   }
   return facts;  
