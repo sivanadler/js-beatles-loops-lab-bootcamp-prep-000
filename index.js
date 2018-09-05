@@ -1,6 +1,6 @@
 var musicians = ["John", "Paul", "George", "Ringo"];
 
-const instruments = ["guitar", "guitar", "bass", "drums"];
+var instruments = ["guitar", "guitar", "bass", "drums"];
 
 function theBeatlesPlay(musicians, instruments) {
   var array = [];
